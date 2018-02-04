@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("image.jpeg");
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    
+}
+
+.icon{
+    width: 37%;
+    height:auto;
+    border-radius: 50%;
+    position: fixed;
+    top: 105px;
+    left: 100px;
+}
+p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    position: fixed;
+    font-size: 450%;
+    color: aliceblue;
+    top: 125px;
+    left: 625px;
+}
+p.first{
+    font-size: 105%;
+    top: 300px;
+    left: 625px;
+}
+p.contact{
+    font-size: 25px;
+    top: 400px;
+    left: 625
+}
+.instagram{
+    width: 7%;
+    height:auto;
+    position: fixed;
+    top: 450px;
+    left: 955px;
+}
+.facebook{
+    width: 7%;
+    height:auto;
+    position: fixed;
+    top: 450px;
+    left: 1125px;
+}
+.linkedin{
+    width: 7%;
+    height:auto;
+    position: fixed;
+    top: 450px;
+    left: 750px;
+}
+
+
+
+
+
+
